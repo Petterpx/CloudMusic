@@ -1,0 +1,2 @@
+include ':cloud_app', ':cloud_voice', ':lib_audio', ':lib_video', ':lib_network', ':lib_image_loader', ':lib_update', ':lib_pullalive', ':lib_webview', ':lib_qrcode', ':lib_share', ':lib_common_ui'
+rootProject.name='CloudMusic'
